@@ -2,7 +2,6 @@
  * 
  * Project 5 Testing
  * 
- * @Author Rahul Reddy Sathi, L05, rsathi
  * 
  * @version 04/19/15
  * 
